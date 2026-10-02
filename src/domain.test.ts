@@ -1,5 +1,5 @@
 import{describe,expect,it}from"vitest";
-import{commitExtraction,createCampusStore,extractAnnouncement,initialState,normalizeExtraction,answerCampusQuery,validateExtraction,deterministicExtractionProvider,relevanceForUser,deadlineStatus,campusDeadlines,createCampusRepository,canAccessSociety,societyContribution,feedbackSummary,discoverCampus,analyticsSnapshot,personalizedWorkflow,roleCan}from"./domain";
+import{commitExtraction,createCampusStore,extractAnnouncement,initialState,normalizeExtraction,answerCampusQuery,validateExtraction,deterministicExtractionProvider,relevanceForUser,deadlineStatus,campusDeadlines,createCampusRepository,canAccessSociety,societyContribution,feedbackSummary,demoProfile,discoverCampus,analyticsSnapshot,personalizedWorkflow,roleCan}from"./domain";
 
 describe("announcement extraction",()=>{
 it("extracts the hackathon demo into connected facts and actions",()=>{
