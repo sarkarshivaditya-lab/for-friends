@@ -727,3 +727,7 @@ Status: COMPLETE
 - Added explicit registration_for, volunteers_for, milestone_of and assigned_to dependency relationships.
 - Network now surfaces dependency chains alongside the selected graph object.
 - Added Analytics workspace for pending registrations, upcoming deadlines, participation, open workload, workload by source and project/milestone progress.
+
+
+### CI validation branch
+- No product change; this branch exists only to execute the repository pull-request build/test workflow against the CP16 implementation.
