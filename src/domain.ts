@@ -59,7 +59,7 @@ export const entities:Entity[]=[
 {id:"hack-volunteer",type:"volunteer_slot",name:"Hackathon volunteer crew",meta:"Event support role"},
 {id:"campus-os-project",type:"project",name:"Campus OS",meta:"Connected campus product"},
 {id:"campus-os-milestone",type:"milestone",name:"Knowledge layer milestone",meta:"Notion + discovery + workflow"},
-{id:"user-shiv",type:"user",name:"Shiv",meta:"Student / Club Coordinator"}
+{id:"user-shiv",type:"user",name:"Shiv",meta:"Student / Club Coordinator"},
 {id:"ms-ambassador",type:"opportunity",name:"Microsoft Ambassador",meta:"Career opportunity"},
 {id:"figma",type:"event",name:"Figma Workshop",meta:"Design Club event"},
 {id:"cn-notes",type:"resource",name:"CN Viva Notes",meta:"Academic resource"}];
